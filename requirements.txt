@@ -1,0 +1,4 @@
+openai==<latest-version>
+flask==<latest-version>
+streamlit==<latest-version>
+pyyaml==<latest-version>
